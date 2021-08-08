@@ -15,6 +15,8 @@ sudo apt update
 
 apt-cache policy docker-ce
 
+sudo apt install docker-ce
+
 sudo systemctl status docker
 
 sudo usermod -aG docker ${USER}
