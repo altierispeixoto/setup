@@ -6,6 +6,10 @@ sudo apt install htop
 
 sudo apt install gnome-tweak-tool
 
+################
+##  SLACK     ##
+################
+sudo snap install slack --classic
 
 ############################################# docker ###################################################
 ## https://www.edivaldobrito.com.br/como-instalar-o-google-chrome-no-ubuntu-20-04-via-repositorio-oficial/ ###
